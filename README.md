@@ -26,5 +26,5 @@
     <a href="https://www.twitch.tv/felippe_cruz"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
     <a href="https://twitter.com/felippeBCruz"><img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter"></a>
     <a href="https://www.hackerrank.com/profile/fcruzgit"><img src="https://img.shields.io/badge/Hackers%20rank-323232?logo=hackerrank&logoColor=&style=for-the-badge"></a>
-    <a href="https://www.artstation.com/felippecruz"><img src="https://img.shields.io/badge/artstation-1E1E1E?logo=artstation&logoColor=&style=for-the-badge"></a>
+    <a href="https://steamcommunity.com/profiles/76561199020459491/"><img src="https://img.shields.io/badge/STEAM-000000?logo=steam&logoColor=&style=for-the-badge"></a>
 </div>
