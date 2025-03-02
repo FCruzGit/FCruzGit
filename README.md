@@ -2,9 +2,6 @@
 ##
 
 <div>
-  <img src="https://myreadme.vercel.app/api/embed/FCruzGit?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-</div>
-<div>
     <br>
     <br>
     <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
