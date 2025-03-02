@@ -1,4 +1,4 @@
-### Um Homem, uma Máquina, uma Besta Enjauladaaaa!!! 
+### Desenvolvedor e Designer de Games em Godot 
 ##
 
 <div>
