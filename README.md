@@ -5,7 +5,7 @@
 
 ## 😀 Sobre mim
 <p align="justify">
-Sou desenvolvedor apaixonado por tecnologia, com cerca de 3 anos e meio de experiência em TI e forte atuação no desenvolvimento de jogos com Godot Engine e na criação de automações inteligentes para otimizar processos. Tenho experiência em linguagens como C++, C# e Python, além de conhecimentos sólidos em Selenium, Pandas e PowerShell para integrações e automações. Atualmente, atuo com suporte operacional, gestão de ativos e desenvolvimento de soluções para reduzir carga de trabalho e aumento de produtividade. Busco constantemente evoluir, seja explorando novas tecnologias, criando experiências interativas em jogos ou projetando ferramentas que tornem o dia a dia mais ágil e eficiente.
+Sou Estudante de ADS(Analise e Desenvolvimento de Sistemas) e apaixonado por tecnologia, com mais de 3 anos de experiência em TI já atuei em diversos segmentos da área e tambem trabalho no desenvolvimento de jogos com Godot Engine e na criação de automações inteligentes para otimizar processos. Tenho experiência em linguagens como C++ e Python.
 </p>
 
 ---
