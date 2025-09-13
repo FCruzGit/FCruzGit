@@ -15,7 +15,6 @@ Sou Estudante de ADS(Analise e Desenvolvimento de Sistemas) e apaixonado por tec
   <img alt="blender" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>
   <img alt="godot" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
   <img alt="cplusplus" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img alt="csharp" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
   <img alt="python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </p>
 
@@ -46,6 +45,8 @@ Sou Estudante de ADS(Analise e Desenvolvimento de Sistemas) e apaixonado por tec
   <img alt="anaconda" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"/>
   <img alt="django" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
   <img alt="dbeaver" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+  <img alt="csharp" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+
 </p>
 
 ---
