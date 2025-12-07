@@ -1,11 +1,13 @@
-<h1 align="center">🎮 Desenvolvedor de Games e Automações</h1>
-<h3 align="center">Especialista em <b>Godot Engine</b> e apaixonado por automatizar tarefas</h3>
+<h1 align="center">🎮 Desenvolvedor de Software</h1>
+<h3 align="center">Especialista em <b>Python</b> e Godot engine</h3>
 
 ---
 
 ## 😀 Sobre mim
 <p align="justify">
-Sou Estudante de ADS(Analise e Desenvolvimento de Sistemas) e apaixonado por tecnologia, com mais de 3 anos de experiência em TI já atuei em diversos segmentos da área e tambem trabalho no desenvolvimento de jogos com Godot Engine e na criação de automações inteligentes para otimizar processos. Tenho experiência em linguagens como C++ e Python.
+Iniciei na área de TI em 2021 e desde então já atuei em diversos segmentos, trabalho no desenvolvimento de jogos com 
+Godot Engine, desenvolvimento de APIs e na criação de automações. Tenho experiência nas linguagens Java, C#, Typescript
+e Python.
 </p>
 
 ---
@@ -14,7 +16,7 @@ Sou Estudante de ADS(Analise e Desenvolvimento de Sistemas) e apaixonado por tec
 <p align="center">
   <img alt="blender" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>
   <img alt="godot" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
-  <img alt="cplusplus" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img alt="csharp" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img alt="python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </p>
 
