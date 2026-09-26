@@ -1,5 +1,5 @@
 <h1 align="center">🎮 Desenvolvedor de Software</h1>
-<h3 align="center">Especialista em <b>Python</b> e Godot engine</h3>
+<h3 align="center">Especialista em <b>Python</b> e Godot</h3>
 
 ---
 
